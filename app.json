@@ -23,10 +23,8 @@
             "value": "7158015873:AAFNXF3OEfexth-SAnpQ6Foa9XGhY6HeqAU",
             "required": true
         }
-    }
-
-}
-{"addons": [],
+    },
+"addons": [],
     "buildpacks": [
         {
             "url": "https://github.com/amivin/aria2-heroku.git"
